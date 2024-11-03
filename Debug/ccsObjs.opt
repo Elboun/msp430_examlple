@@ -1,0 +1,3 @@
+"./mps_lab03_msp430_GPIO_example.obj"
+"../lnk_msp430g2553.cmd"
+-llibc.a
